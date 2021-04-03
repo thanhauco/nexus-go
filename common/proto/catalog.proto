@@ -1,0 +1,1 @@
+syntax = "proto3";\npackage catalog;\nservice CatalogService { rpc GetProduct(GetProductRequest) returns (Product); }\nmessage GetProductRequest { string id = 1; }\nmessage Product { string id = 1; string name = 2; float price = 3; }
