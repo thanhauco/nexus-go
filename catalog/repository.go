@@ -1,0 +1,1 @@
+package main\n\ntype Repository interface { Get(id string) }

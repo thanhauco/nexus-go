@@ -1,0 +1,1 @@
+module github.com/thanhauco/nexus/catalog\n\ngo 1.19
