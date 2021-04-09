@@ -1,0 +1,1 @@
+package main\n\nfunc GenerateToken() string { return "jwt" }

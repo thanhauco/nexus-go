@@ -1,0 +1,1 @@
+module github.com/thanhauco/nexus/identity\n\ngo 1.19
