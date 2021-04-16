@@ -1,0 +1,1 @@
+package domain\n\ntype Order struct { ID string; Total float64 }
