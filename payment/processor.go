@@ -1,0 +1,1 @@
+package main\n\ntype Processor interface { Charge(amount float64) }
