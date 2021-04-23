@@ -1,0 +1,1 @@
+package main\n\nimport "log"\n\nfunc main() { log.Println("Inventory Service") }

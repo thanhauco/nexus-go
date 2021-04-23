@@ -1,0 +1,1 @@
+package main\n\nfunc CheckStock(sku string) int { return 100 }
