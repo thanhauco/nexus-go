@@ -1,0 +1,1 @@
+package main\n\nimport "net/http"\n\nfunc main() { http.ListenAndServe(":8080", nil) }
