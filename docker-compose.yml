@@ -1,0 +1,1 @@
+version: '3'\nservices:\n  catalog:\n    build: ./catalog\n  identity:\n    build: ./identity\n  basket:\n    build: ./basket\n  ordering:\n    build: ./ordering\n  payment:\n    build: ./payment\n  shipping:\n    build: ./shipping\n  inventory:\n    build: ./inventory\n  redis:\n    image: redis:alpine\n  rabbitmq:\n    image: rabbitmq:3-management
