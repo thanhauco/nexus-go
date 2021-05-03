@@ -1,1 +1,1 @@
-# Nexus Microservices\n\ngRPC-based e-commerce backend with Go.
+# Nexus Microservices\n\n## Services\n- Catalog\n- Identity\n- Basket\n- Ordering\n- Payment\n- Shipping\n- Inventory\n- Gateway
